@@ -1,0 +1,40 @@
+/* Sidebar.css */
+
+.sidebar {
+  width: 250px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.sidebar.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.menu-links a,
+.bottom-content button {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.3s;
+}
+
+.menu-links a:hover,
+.bottom-content button:hover {
+  background-color: #e0e0e0;
+}
+
+.bx {
+  font-family: 'Boxicons';
+}
+
+.toggle {
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .sidebar {
+    transform: translateX(0);
+  }
+}

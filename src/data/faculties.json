@@ -1,0 +1,98 @@
+{
+  "faculties": [
+    {
+      "name": "College Of Basic And Applied Sciences",
+      "imageUrl": "https://i.ibb.co/JCz6jsW/COBAS.jpg",
+      "departments": [
+        {
+          "name": "Mathematical And Physical Sciences (MPS)",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/mps.jpg"
+        },
+        {
+          "name": "Chemical Sciences",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/chemical-sciences.jpg"
+        },
+        {
+          "name": "Biological Sciences",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/biological-sciences.jpg"
+        }
+      ]
+    },
+    {
+      "name": "College Of Management And Social Sciences",
+      "imageUrl": "https://i.ibb.co/xqjQxCH/COMAS.jpg",
+      "departments": [
+        {
+          "name": "Mass Communication",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/mass-communication.jpg"
+        },
+        {
+          "name": "Accounting",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/accounting.jpg"
+        },
+        {
+          "name": "Economics",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/economics.jpg"
+        },
+        {
+          "name": "Public Administration",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/public-administration.jpg"
+        },
+        {
+          "name": "Business Administration",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/business-administration.jpg"
+        }
+      ]
+    },
+    {
+      "name": "College Of Humanities",
+      "imageUrl": "https://i.ibb.co/Z8PQ17q/COHUM.jpg",
+      "departments": [
+        {
+          "name": "History and diplomatic studies",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/history-diplomatic-studies.jpg"
+        },
+        {
+          "name": "Languages",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/languages.jpg"
+        },
+        {
+          "name": "Philosophy",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/philosophy.jpg"
+        },
+        {
+          "name": "Religious study",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/religious-study.jpg"
+        },
+        {
+          "name": "French",
+          "levels": ["100", "200", "300", "400"],
+          "imageUrl": "https://example.com/french.jpg"
+        }
+      ]
+    },
+    {
+      "name": "College Of Law",
+      "imageUrl": "https://i.ibb.co/nmkVXKQ/COLAW.jpg",
+      "departments": [
+        {
+          "name": "Law",
+          "levels": ["100", "200", "300", "400", "500"],
+          "imageUrl": "https://example.com/law.jpg"
+        }
+      ]
+    }
+  ]
+}
